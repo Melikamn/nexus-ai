@@ -65,3 +65,20 @@ Our engineering and product decisions are guided by the following principles:
 * **Extensibility** — Modular architecture enables future integrations, plugins, and custom AI agents.
 * **Reliability** — Stable, observable, and production-ready systems built with industry best practices.
 
+## Problem
+
+Many businesses struggle to organize documents and retrieve knowledge efficiently.
+
+## Target Users
+
+- Startups
+- Small businesses
+- Freelancers
+
+## Mission
+
+Empower businesses with AI-driven knowledge management.
+
+## Long-Term Vision
+
+Become an AI operating system for business knowledge.
