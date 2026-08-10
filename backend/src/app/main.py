@@ -1,9 +1,10 @@
 from fastapi import FastAPI
 
 from app.api.router import router
+from app.core.config import settings
 
 app = FastAPI(
-    title="Nexus AI API",
+    title=settings.app_name,
     description="Backend API for Nexus AI",
     version="0.1.0",
 )
